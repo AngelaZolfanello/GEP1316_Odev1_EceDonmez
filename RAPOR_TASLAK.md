@@ -63,3 +63,5 @@ Bu uygulamanın kodu GitHub Copilot tarafından oluşturulmuştur. ChatGPT, geli
 ## 7. Kaynakça (APA 7)
 
 GitHub. (n.d.). *GitHub Copilot*. [https://github.com/features/copilot](https://github.com/features/copilot)
+
+OpenAI. (2026). *ChatGPT* [Büyük dil modeli]. https://chatgpt.com/
